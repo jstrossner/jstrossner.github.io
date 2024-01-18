@@ -1,1 +1,2 @@
-# jstrossner.github.io
+# jstrossner.github.io 
+Jillian Strossner
