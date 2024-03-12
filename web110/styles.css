@@ -1,0 +1,13 @@
+body {
+  background-color: darkslategray;
+}
+h1 {
+  color: gainsboro;
+  font-family: timesnewroman;
+  font-size: 90%;
+}
+p {
+  color: black;
+  font-family: timesnewroman;
+  font-size: 75%;
+}
