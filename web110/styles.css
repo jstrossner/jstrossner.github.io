@@ -2,12 +2,12 @@ body {
   background-color: darkslategray;
 }
 h1 {
-  color: gainsboro;
+  color: antiquewhite;
   font-family: timesnewroman;
   font-size: 90%;
 }
 p {
-  color: black;
+  color: gainsboro;
   font-family: timesnewroman;
   font-size: 75%;
 }
