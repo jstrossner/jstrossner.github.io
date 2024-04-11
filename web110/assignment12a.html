@@ -16,6 +16,26 @@
     <canvas id="example1" width="360" height="240">
         This text is displayed if your browser does not support HTML5 Canvas.
     </canvas>
+
+      <script>
+        var example = document.getElementById("example1");
+        var context = example.getContext("2d");
+      
+        // Set stroke and fill to blue
+        context.strokeStyle = "blue";
+        context.fillStyle = "blue";
+      
+        // Select font, alignment, draw text, and fill characters
+        context.font = "36px sans-serif";
+        context.textAlign="center";
+        context.strokeText("Jillian Strossner", 160, 50);
+        context.fillText("Jillian Strossner", 160, 50);
+      </script>
+      <canvas id="example2" width="360" height="240">
+        This text is displayed if your browser does not support HTML5 Canvas.
+      </canvas>
+      
+      
   </body>
 
 </html>
