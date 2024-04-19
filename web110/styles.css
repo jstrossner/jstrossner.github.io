@@ -7,9 +7,14 @@ h1 {
   font-size: 90%;
 }
 h2 {
-  color: antiquewhite;
+  color: blanchedalmond;
   font-family: timesnewroman;
-  font-size: 90%;
+  font-size: 85%;
+}
+h3 {
+  color: beige;
+  font-family: timesnewroman;
+  font-size: 80%;
 }
 p {
   color: gainsboro;
